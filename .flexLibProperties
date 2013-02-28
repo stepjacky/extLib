@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.atomsoft.net.MessageBody"/>
+    <classEntry path="com.atomsoft.ui.MyRichText"/>
+    <classEntry path="com.atomsoft.ui.IconManager"/>
+    <classEntry path="com.atomsoft.ui.AlertWindow"/>
+    <classEntry path="org.atomsoft.as3.base.WorkflowNode"/>
+    <classEntry path="org.atomsoft.as3.base.event.ArrowEvent"/>
+    <classEntry path="org.atomsoft.as3.base.event.LineMoveEvent"/>
+    <classEntry path="org.atomsoft.as3.base.event.DrawEvent"/>
+    <classEntry path="org.atomsoft.as3.base.event.EffectiveEvent"/>
+    <classEntry path="org.atomsoft.as3.base.FlexNode"/>
+    <classEntry path="org.atomsoft.as3.base.event.SelectEvent"/>
+    <classEntry path="org.jackysoft.util.RandomUtil"/>
+    <classEntry path="org.jackysoft.util.GUID"/>
+    <classEntry path="org.atomsoft.as3.base.ValueObject"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

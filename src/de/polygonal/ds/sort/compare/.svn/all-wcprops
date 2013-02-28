@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/346/trunk/extLib/src/de/polygonal/ds/sort/compare
+END
+compareStringCaseSensitiveDesc.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/346/trunk/extLib/src/de/polygonal/ds/sort/compare/compareStringCaseSensitiveDesc.as
+END
+compareStringCaseSensitive.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/346/trunk/extLib/src/de/polygonal/ds/sort/compare/compareStringCaseSensitive.as
+END
+compareStringCaseInSensitiveDesc.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/346/trunk/extLib/src/de/polygonal/ds/sort/compare/compareStringCaseInSensitiveDesc.as
+END
+compareStringCaseInSensitive.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/346/trunk/extLib/src/de/polygonal/ds/sort/compare/compareStringCaseInSensitive.as
+END
